@@ -10,7 +10,7 @@ WAG/Rij-rat is a genetic animal model of [absence epilepsy](https://en.wikipedia
 This repository has:
 
 - [data of brain activity WAG/Rij-rat](https://yadi.sk/d/REVgBJ_N3R7jjZ)
-- [time list of absence seizures for this rat](https://github.com/rcv911/rat-spectrogram/tree/master/doc)
+- [time list of absence seizures for this rat](https://github.com/rcv911/rat-spectrogram/tree/master/data)
 
 ## Motivation
 
